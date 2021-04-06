@@ -1,0 +1,19 @@
+{
+  "name": "registouser",
+  "version": "1.0.0",
+  "description": "registo utilizador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "registo"
+  ],
+  "author": "JoaoAires",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
